@@ -1,0 +1,21 @@
+{
+  "name": "Dark",
+  "displayName": "Synthwave High Contrast Edition",
+  "description": "Synthwave inspired color theme, with a little bit more contrast than most available plugins. Will continue to tweak as I use.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Synthwave High Contrast Edition",
+        "uiTheme": "hc-black",
+        "path": "./themes/Synthwave High Contrast Edition-color-theme.json"
+      }
+    ]
+  }
+}
